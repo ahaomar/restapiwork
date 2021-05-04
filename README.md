@@ -100,3 +100,12 @@ This is a small rest api application.
 	    "date"	: "2021-05-09"
 	}
 </pre>
+
+## DB Explanation
+There are three tables.
+*	worker
+	-	Worker table is for workers, fields are(id,name,email,age,designation)
+*	shift
+	-	Shift tables is for shift, fields are(id,title)
+*	workershift
+	-	workershift is childtable to store the worker's shift record. Fields are (id,workerid,shiftid,date)
