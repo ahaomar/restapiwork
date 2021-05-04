@@ -72,7 +72,7 @@ This is a small rest api application.
 	{
 	    "id"	: "20"
 	}
-
+</pre>
 ### Worker Shift
 #### Fetch ALL Records
 *	http://www.subhenoorstore.com/teamway/api/workershift/shift_by_date.php?date=%222021-05-04%22
@@ -97,6 +97,6 @@ This is a small rest api application.
 <pre>
 	{
 	    "workerId" : "1",
-	    "date"	: "2021-05-03"
+	    "date"	: "2021-05-09"
 	}
 </pre>
