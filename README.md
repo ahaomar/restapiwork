@@ -108,4 +108,4 @@ There are three tables.
 *	shift
 	-	Shift tables is for shift, fields are(id,title)
 *	workershift
-	-	workershift is childtable to store the worker's shift record. Fields are (id,workerid,shiftid,date)
+	-	workershift is childtable to store the worker's shift record. Fields are (id,workerid,shiftid,date )
